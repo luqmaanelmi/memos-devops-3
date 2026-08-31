@@ -31,3 +31,12 @@ dist
 
 # Frontend test coverage output (Vitest + @vitest/coverage-v8).
 web/coverage/
+terraform.tfvars
+**/.terraform
+**/.terraform.lock.hcl
+=
+resolve
+transferring
+=
+resolve
+transferring
