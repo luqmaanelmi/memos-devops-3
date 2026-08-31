@@ -40,3 +40,4 @@ transferring
 =
 resolve
 transferring
+infra/modules/terraform.tfstate
